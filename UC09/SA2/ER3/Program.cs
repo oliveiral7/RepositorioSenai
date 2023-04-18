@@ -6,8 +6,8 @@ Endereco novoEnd = new Endereco();
 PessoaFisica metodoPf = new PessoaFisica();
 
 
-obj_PF.nome = "Luiz";
-obj_PF.dataNascimento = "01/01/2000";
+obj_PF.nome = "Luan";
+obj_PF.dataNascimento = "20/08/2000";
 obj_PF.cpf = "30430430404";
 obj_PF.rendimento = 1500.00f;
 
