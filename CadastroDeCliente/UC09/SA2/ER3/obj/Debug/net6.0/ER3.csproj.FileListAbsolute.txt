@@ -1,5 +1,0 @@
-C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\ER3\obj\Debug\net6.0\ER3.csproj.AssemblyReference.cache
-C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\ER3\obj\Debug\net6.0\ER3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\ER3\obj\Debug\net6.0\ER3.AssemblyInfoInputs.cache
-C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\ER3\obj\Debug\net6.0\ER3.AssemblyInfo.cs
-C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\ER3\obj\Debug\net6.0\ER3.csproj.CoreCompileInputs.cache
