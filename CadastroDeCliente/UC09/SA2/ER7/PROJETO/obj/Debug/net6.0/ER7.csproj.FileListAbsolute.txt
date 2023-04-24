@@ -1,0 +1,15 @@
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\bin\Debug\net6.0\ER7.exe
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\bin\Debug\net6.0\ER7.deps.json
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\bin\Debug\net6.0\ER7.runtimeconfig.json
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\bin\Debug\net6.0\ER7.dll
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\bin\Debug\net6.0\ER7.pdb
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\obj\Debug\net6.0\ER7.csproj.AssemblyReference.cache
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\obj\Debug\net6.0\ER7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\obj\Debug\net6.0\ER7.AssemblyInfoInputs.cache
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\obj\Debug\net6.0\ER7.AssemblyInfo.cs
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\obj\Debug\net6.0\ER7.csproj.CoreCompileInputs.cache
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\obj\Debug\net6.0\ER7.dll
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\obj\Debug\net6.0\refint\ER7.dll
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\obj\Debug\net6.0\ER7.pdb
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\obj\Debug\net6.0\ER7.genruntimeconfig.cache
+C:\Users\Luan Oliveira\Documents\RepositorioSenai\UC09\SA2\ER7\obj\Debug\net6.0\ref\ER7.dll
